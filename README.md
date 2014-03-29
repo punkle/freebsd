@@ -15,7 +15,7 @@ Usage
 -----
 #### freebsd::portsnap
 
-This recipe ensures the Ports Collection collection is fully up to date.
+This recipe ensures the Ports collection is fully up to date.
 
 This recipe should appear first in the run list of FreeBSD nodes to ensure that
 the package cache is up to date before managing any `package` resources with
